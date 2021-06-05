@@ -1,0 +1,12 @@
+#abc:hover{
+  background-color: blue;
+  color: red;
+}
+h1 {
+  color: black;
+  text-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px blue;
+}
+#abcde {
+  box-shadow: -5px -5px 30px 5px #ff99ff, 5px 5px 30px 5px #8080ff;
+  font-size: 20px;
+}
